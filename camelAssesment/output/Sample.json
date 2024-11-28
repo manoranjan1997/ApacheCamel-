@@ -1,0 +1,18 @@
+{
+    "shipmentId": "SH12345",
+    "origin": "New York",
+    "destination": "Los Angeles",
+    "status": "In Transit",
+    "items": [
+        {
+            "itemId": "IT1001",
+            "description": "Laptop",
+            "quantity": 1
+        },
+        {
+            "itemId": "IT1002",
+            "description": "Smartphone",
+            "quantity": 2
+        }
+    ]
+}
